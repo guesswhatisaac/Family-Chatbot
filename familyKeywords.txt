@@ -1,0 +1,14 @@
+siblings
+sister
+mother
+grandmother
+child
+daughter
+uncle
+brother
+father
+parents
+children
+son
+aunt
+grandfather
